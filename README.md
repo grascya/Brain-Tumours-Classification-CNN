@@ -16,6 +16,6 @@ This dataset is a combination of the following three datasets : [figshare](https
 
   - No Tumor: Normal brain scans without detectable tumors.
 
-  - Pituitary: Tumors affecting the pituitary gland, which can be cancerous or non-cancerous.
+  - Pituitary: Tumors affecting the pituitary gland can be cancerous or non-cancerous.
 - The model performs well with an overall Accuracy of 96%
 
